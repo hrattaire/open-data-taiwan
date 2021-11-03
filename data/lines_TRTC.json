@@ -1,0 +1,44 @@
+[
+               {
+                              "NetworkID": "TRTC-Network",
+                              "NetworkName": {
+                                             "Zh_tw": "\u81fa\u5317\u6377\u904b\u7cfb\u7d71\u8def\u7db2",
+                                             "En": "Taipei Metro Network"
+                              },
+                              "OperatorCode": "TRTC",
+                              "OperatorName": {
+                                             "Zh_tw": "\u81fa\u5317\u5927\u773e\u6377\u904b\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                                             "En": "Taipei Rapid Transit Corporation"
+                              },
+                              "NetworkMapURL": "https://web.metro.taipei/img/all/metrotaipeimap.jpg",
+                              "Lines": [
+                                             {
+                                                            "LineNo": "R",
+                                                            "LineID": "R"
+                                             },
+                                             {
+                                                            "LineNo": "BR",
+                                                            "LineID": "BR"
+                                             },
+                                             {
+                                                            "LineNo": "G",
+                                                            "LineID": "G"
+                                             },
+                                             {
+                                                            "LineNo": "Y",
+                                                            "LineID": "Y"
+                                             },
+                                             {
+                                                            "LineNo": "BL",
+                                                            "LineID": "BL"
+                                             },
+                                             {
+                                                            "LineNo": "O",
+                                                            "LineID": "O"
+                                             }
+                              ],
+                              "SrcUpdateTime": "2018-01-10T13:00:00+08:00",
+                              "UpdateTime": "2018-07-25T10:00:00+08:00",
+                              "VersionID": 1
+               }
+]

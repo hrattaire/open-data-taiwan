@@ -1,0 +1,2972 @@
+[
+               {
+                              "StationUID": "TRTC-BL01",
+                              "StationID": "BL01",
+                              "StationName": {
+                                             "Zh_tw": "\u9802\u57d4",
+                                             "En": "Dingpu"
+                              },
+                              "StationAddress": "236040\u65b0\u5317\u5e02\u571f\u57ce\u5340\u4e2d\u592e\u8def4\u6bb551\u4e4b6\u865fB3",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.4205,
+                                             "PositionLat": 24.96012,
+                                             "GeoHash": "wsqmfzzen"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u571f\u57ce\u5340",
+                              "LocationTownCode": "65000130"
+               },
+               {
+                              "StationUID": "TRTC-BL02",
+                              "StationID": "BL02",
+                              "StationName": {
+                                             "Zh_tw": "\u6c38\u5be7",
+                                             "En": "Yongning"
+                              },
+                              "StationAddress": "236036\u65b0\u5317\u5e02\u571f\u57ce\u5340\u4e2d\u592e\u8def3\u6bb5105\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.43613,
+                                             "PositionLat": 24.96682,
+                                             "GeoHash": "wsqq53546"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u571f\u57ce\u5340",
+                              "LocationTownCode": "65000130"
+               },
+               {
+                              "StationUID": "TRTC-BL03",
+                              "StationID": "BL03",
+                              "StationName": {
+                                             "Zh_tw": "\u571f\u57ce",
+                                             "En": "Tucheng"
+                              },
+                              "StationAddress": "236017\u65b0\u5317\u5e02\u571f\u57ce\u5340\u91d1\u57ce\u8def1\u6bb5105\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.44432,
+                                             "PositionLat": 24.97313,
+                                             "GeoHash": "wsqq5d1p1"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u571f\u57ce\u5340",
+                              "LocationTownCode": "65000130"
+               },
+               {
+                              "StationUID": "TRTC-BL04",
+                              "StationID": "BL04",
+                              "StationName": {
+                                             "Zh_tw": "\u6d77\u5c71",
+                                             "En": "Haishan"
+                              },
+                              "StationAddress": "236023\u65b0\u5317\u5e02\u571f\u57ce\u5340\u6d77\u5c71\u8def39\u865fB2",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.44873,
+                                             "PositionLat": 24.985305,
+                                             "GeoHash": "wsqq5skmb"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u571f\u57ce\u5340",
+                              "LocationTownCode": "65000130"
+               },
+               {
+                              "StationUID": "TRTC-BL05",
+                              "StationID": "BL05",
+                              "StationName": {
+                                             "Zh_tw": "\u4e9e\u6771\u91ab\u9662",
+                                             "En": "Far Eastern Hospital"
+                              },
+                              "StationAddress": "220056\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u5357\u96c5\u5357\u8def2\u6bb517\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.452465,
+                                             "PositionLat": 24.99828,
+                                             "GeoHash": "wsqq5wycx"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u677f\u6a4b\u5340",
+                              "LocationTownCode": "65000010"
+               },
+               {
+                              "StationUID": "TRTC-BL06",
+                              "StationID": "BL06",
+                              "StationName": {
+                                             "Zh_tw": "\u5e9c\u4e2d",
+                                             "En": "Fuzhong"
+                              },
+                              "StationAddress": "220052\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u7e23\u6c11\u5927\u90531\u6bb5193\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.459276,
+                                             "PositionLat": 25.008465,
+                                             "GeoHash": "wsqq7beuy"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u677f\u6a4b\u5340",
+                              "LocationTownCode": "65000010"
+               },
+               {
+                              "StationUID": "TRTC-BL07",
+                              "StationID": "BL07",
+                              "StationName": {
+                                             "Zh_tw": "\u677f\u6a4b",
+                                             "En": "Banqiao"
+                              },
+                              "StationAddress": "220073\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u7ad9\u524d\u8def5\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.462305,
+                                             "PositionLat": 25.013825,
+                                             "GeoHash": "wsqq7cwhh"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u677f\u6a4b\u5340",
+                              "LocationTownCode": "65000010"
+               },
+               {
+                              "StationUID": "TRTC-BL08",
+                              "StationID": "BL08",
+                              "StationName": {
+                                             "Zh_tw": "\u65b0\u57d4",
+                                             "En": "Xinpu"
+                              },
+                              "StationAddress": "220030\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u6c11\u751f\u8def3\u6bb52\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.468055,
+                                             "PositionLat": 25.02327,
+                                             "GeoHash": "wsqqk5674"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u677f\u6a4b\u5340",
+                              "LocationTownCode": "65000010"
+               },
+               {
+                              "StationUID": "TRTC-BL09",
+                              "StationID": "BL09",
+                              "StationName": {
+                                             "Zh_tw": "\u6c5f\u5b50\u7fe0",
+                                             "En": "Jiangzicui"
+                              },
+                              "StationAddress": "220016\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u6587\u5316\u8def2\u6bb5296\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.47257,
+                                             "PositionLat": 25.030265,
+                                             "GeoHash": "wsqqkhteu"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u677f\u6a4b\u5340",
+                              "LocationTownCode": "65000010"
+               },
+               {
+                              "StationUID": "TRTC-BL10",
+                              "StationID": "BL10",
+                              "StationName": {
+                                             "Zh_tw": "\u9f8d\u5c71\u5bfa",
+                                             "En": "Longshan Temple"
+                              },
+                              "StationAddress": "108015\u81fa\u5317\u5e02\u842c\u83ef\u5340\u897f\u5712\u8def1\u6bb5153\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.500325,
+                                             "PositionLat": 25.03528,
+                                             "GeoHash": "wsqqkv9c4"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u842c\u83ef\u5340",
+                              "LocationTownCode": "63000070"
+               },
+               {
+                              "StationUID": "TRTC-BL11",
+                              "StationID": "BL11",
+                              "StationName": {
+                                             "Zh_tw": "\u897f\u9580",
+                                             "En": "Ximen"
+                              },
+                              "StationAddress": "100005\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u5bf6\u6176\u8def32\u4e4b1\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.508175,
+                                             "PositionLat": 25.042025,
+                                             "GeoHash": "wsqqkyz83"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-BL12",
+                              "StationID": "BL12",
+                              "StationName": {
+                                             "Zh_tw": "\u53f0\u5317\u8eca\u7ad9",
+                                             "En": "Taipei Main Station"
+                              },
+                              "StationAddress": "100009\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u5fe0\u5b5d\u897f\u8def1\u6bb549\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.517415,
+                                             "PositionLat": 25.04631,
+                                             "GeoHash": "wsqqmpw32"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-BL13",
+                              "StationID": "BL13",
+                              "StationName": {
+                                             "Zh_tw": "\u5584\u5c0e\u5bfa",
+                                             "En": "Shandao Temple"
+                              },
+                              "StationAddress": "100024\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u5fe0\u5b5d\u6771\u8def1\u6bb558\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.523885,
+                                             "PositionLat": 25.04468,
+                                             "GeoHash": "wsqqmr4zz"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-BL14",
+                              "StationID": "BL14",
+                              "StationName": {
+                                             "Zh_tw": "\u5fe0\u5b5d\u65b0\u751f",
+                                             "En": "Zhongxiao Xinsheng"
+                              },
+                              "StationAddress": "106083\u81fa\u5317\u5e02\u5927\u5b89\u5340\u65b0\u751f\u5357\u8def1\u6bb567\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.53321,
+                                             "PositionLat": 25.042498,
+                                             "GeoHash": "wsqqmwcg1"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-BL15",
+                              "StationID": "BL15",
+                              "StationName": {
+                                             "Zh_tw": "\u5fe0\u5b5d\u5fa9\u8208",
+                                             "En": "Zhongxiao Fuxing"
+                              },
+                              "StationAddress": "106071\u81fa\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def4\u6bb547\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.545026,
+                                             "PositionLat": 25.041749,
+                                             "GeoHash": "wsqqmydqu"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-BL16",
+                              "StationID": "BL16",
+                              "StationName": {
+                                             "Zh_tw": "\u5fe0\u5b5d\u6566\u5316",
+                                             "En": "Xhongxiao Dunhua"
+                              },
+                              "StationAddress": "106057\u81fa\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def4\u6bb5182\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.55045,
+                                             "PositionLat": 25.041505,
+                                             "GeoHash": "wsqqmywm6"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-BL17",
+                              "StationID": "BL17",
+                              "StationName": {
+                                             "Zh_tw": "\u570b\u7236\u7d00\u5ff5\u9928",
+                                             "En": "Sun Yat-Sen Memorial Hall"
+                              },
+                              "StationAddress": "110054\u81fa\u5317\u5e02\u4fe1\u7fa9\u5340\u5fe0\u5b5d\u6771\u8def4\u6bb5400\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.557815,
+                                             "PositionLat": 25.04137,
+                                             "GeoHash": "wsqqqnesw"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4fe1\u7fa9\u5340",
+                              "LocationTownCode": "63000020"
+               },
+               {
+                              "StationUID": "TRTC-BL18",
+                              "StationID": "BL18",
+                              "StationName": {
+                                             "Zh_tw": "\u5e02\u653f\u5e9c",
+                                             "En": "Taipei City Hall"
+                              },
+                              "StationAddress": "110060\u81fa\u5317\u5e02\u4fe1\u7fa9\u5340\u5fe0\u5b5d\u6771\u8def5\u6bb52\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.565685,
+                                             "PositionLat": 25.041135,
+                                             "GeoHash": "wsqqqq97j"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4fe1\u7fa9\u5340",
+                              "LocationTownCode": "63000020"
+               },
+               {
+                              "StationUID": "TRTC-BL19",
+                              "StationID": "BL19",
+                              "StationName": {
+                                             "Zh_tw": "\u6c38\u6625",
+                                             "En": "Yongchun"
+                              },
+                              "StationAddress": "110037\u81fa\u5317\u5e02\u4fe1\u7fa9\u5340\u5fe0\u5b5d\u6771\u8def5\u6bb5455\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.5762,
+                                             "PositionLat": 25.040855,
+                                             "GeoHash": "wsqqqw91d"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4fe1\u7fa9\u5340",
+                              "LocationTownCode": "63000020"
+               },
+               {
+                              "StationUID": "TRTC-BL20",
+                              "StationID": "BL20",
+                              "StationName": {
+                                             "Zh_tw": "\u5f8c\u5c71\u57e4",
+                                             "En": "Houshanpi"
+                              },
+                              "StationAddress": "115025\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u5fe0\u5b5d\u6771\u8def6\u6bb52\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.58227,
+                                             "PositionLat": 25.044715,
+                                             "GeoHash": "wsqqqxm80"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5357\u6e2f\u5340",
+                              "LocationTownCode": "63000090"
+               },
+               {
+                              "StationUID": "TRTC-BL21",
+                              "StationID": "BL21",
+                              "StationName": {
+                                             "Zh_tw": "\u6606\u967d",
+                                             "En": "Kunyang"
+                              },
+                              "StationAddress": "115007\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u5fe0\u5b5d\u6771\u8def6\u6bb5451\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.593228,
+                                             "PositionLat": 25.050459,
+                                             "GeoHash": "wsqqwbm3x"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5357\u6e2f\u5340",
+                              "LocationTownCode": "63000090"
+               },
+               {
+                              "StationUID": "TRTC-BL22",
+                              "StationID": "BL22",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u6e2f",
+                                             "En": "Nangang"
+                              },
+                              "StationAddress": "115011\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u5fe0\u5b5d\u6771\u8def7\u6bb5380\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.60697,
+                                             "PositionLat": 25.052035,
+                                             "GeoHash": "wsqqx0x6x"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5357\u6e2f\u5340",
+                              "LocationTownCode": "63000090"
+               },
+               {
+                              "StationUID": "TRTC-BL23",
+                              "StationID": "BL23",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u6e2f\u5c55\u89bd\u9928",
+                                             "En": "Taipei Nangang Exhibition Center"
+                              },
+                              "StationAddress": "\u677f\u5357\u7dda\uff1a115021\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u7814\u7a76\u9662\u8def1\u6bb51\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.616861,
+                                             "PositionLat": 25.054919,
+                                             "GeoHash": "wsqqx3neq"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5357\u6e2f\u5340",
+                              "LocationTownCode": "63000090"
+               },
+               {
+                              "StationUID": "TRTC-BR01",
+                              "StationID": "BR01",
+                              "StationName": {
+                                             "Zh_tw": "\u52d5\u7269\u5712",
+                                             "En": "Taipei Zoo"
+                              },
+                              "StationAddress": "116016\u81fa\u5317\u5e02\u6587\u5c71\u5340\u65b0\u5149\u8def2\u6bb532\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.579501,
+                                             "PositionLat": 24.998205,
+                                             "GeoHash": "wsqqnwg3p"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u6587\u5c71\u5340",
+                              "LocationTownCode": "63000080"
+               },
+               {
+                              "StationUID": "TRTC-BR02",
+                              "StationID": "BR02",
+                              "StationName": {
+                                             "Zh_tw": "\u6728\u67f5",
+                                             "En": "Muzha"
+                              },
+                              "StationAddress": "116027\u81fa\u5317\u5e02\u6587\u5c71\u5340\u6728\u67f5\u8def4\u6bb5135\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.573127,
+                                             "PositionLat": 24.99824,
+                                             "GeoHash": "wsqqnqyc7"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u6587\u5c71\u5340",
+                              "LocationTownCode": "63000080"
+               },
+               {
+                              "StationUID": "TRTC-BR03",
+                              "StationID": "BR03",
+                              "StationName": {
+                                             "Zh_tw": "\u842c\u82b3\u793e\u5340",
+                                             "En": "Wanfang Community"
+                              },
+                              "StationAddress": "116027\u81fa\u5317\u5e02\u6587\u5c71\u5340\u842c\u82b3\u8def60\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.568088,
+                                             "PositionLat": 24.99857,
+                                             "GeoHash": "wsqqnqg5j"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u6587\u5c71\u5340",
+                              "LocationTownCode": "63000080"
+               },
+               {
+                              "StationUID": "TRTC-BR04",
+                              "StationID": "BR04",
+                              "StationName": {
+                                             "Zh_tw": "\u842c\u82b3\u91ab\u9662",
+                                             "En": "Wanfang Hospital"
+                              },
+                              "StationAddress": "116081\u81fa\u5317\u5e02\u6587\u5c71\u5340\u8208\u9686\u8def3\u6bb5113\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.558092,
+                                             "PositionLat": 24.99932,
+                                             "GeoHash": "wsqqnngzs"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u6587\u5c71\u5340",
+                              "LocationTownCode": "63000080"
+               },
+               {
+                              "StationUID": "TRTC-BR05",
+                              "StationID": "BR05",
+                              "StationName": {
+                                             "Zh_tw": "\u8f9b\u4ea5",
+                                             "En": "Xinhai"
+                              },
+                              "StationAddress": "116081\u81fa\u5317\u5e02\u6587\u5c71\u5340\u8f9b\u4ea5\u8def4\u6bb5128\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.557046,
+                                             "PositionLat": 25.005455,
+                                             "GeoHash": "wsqqq055k"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u6587\u5c71\u5340",
+                              "LocationTownCode": "63000080"
+               },
+               {
+                              "StationUID": "TRTC-BR06",
+                              "StationID": "BR06",
+                              "StationName": {
+                                             "Zh_tw": "\u9e9f\u5149",
+                                             "En": "Linguang"
+                              },
+                              "StationAddress": "106043\u81fa\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def3\u6bb5410\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.558834,
+                                             "PositionLat": 25.018495,
+                                             "GeoHash": "wsqqq4krq"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-BR07",
+                              "StationID": "BR07",
+                              "StationName": {
+                                             "Zh_tw": "\u516d\u5f35\u7281",
+                                             "En": "Liuzhangli"
+                              },
+                              "StationAddress": "106039\u81fa\u5317\u5e02\u5927\u5b89\u5340\u548c\u5e73\u6771\u8def3\u6bb5168\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.55302,
+                                             "PositionLat": 25.02381,
+                                             "GeoHash": "wsqqq52nq"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-BR08",
+                              "StationID": "BR08",
+                              "StationName": {
+                                             "Zh_tw": "\u79d1\u6280\u5927\u6a13",
+                                             "En": "Technology Building"
+                              },
+                              "StationAddress": "106101\u81fa\u5317\u5e02\u5927\u5b89\u5340\u5fa9\u8208\u5357\u8def2\u6bb5235\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.543462,
+                                             "PositionLat": 25.02612,
+                                             "GeoHash": "wsqqmgc5x"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-BR09",
+                              "StationID": "BR09",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u5b89",
+                                             "En": "Daan"
+                              },
+                              "StationAddress": "106097\u81fa\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def4\u6bb52\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.54237,
+                                             "PositionLat": 25.033311,
+                                             "GeoHash": "wsqqmv0mw"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-BR10",
+                              "StationID": "BR10",
+                              "StationName": {
+                                             "Zh_tw": "\u5fe0\u5b5d\u5fa9\u8208",
+                                             "En": "Zhongxiao Fuxing"
+                              },
+                              "StationAddress": "106084\u81fa\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def3\u6bb5302\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.545026,
+                                             "PositionLat": 25.041749,
+                                             "GeoHash": "wsqqmydqu"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-BR11",
+                              "StationID": "BR11",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u4eac\u5fa9\u8208",
+                                             "En": "Nanjing Fuxing"
+                              },
+                              "StationAddress": "105020\u81fa\u5317\u5e02\u677e\u5c71\u5340\u5357\u4eac\u6771\u8def3\u6bb5253\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.544303,
+                                             "PositionLat": 25.052044,
+                                             "GeoHash": "wsqqtb9fe"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u677e\u5c71\u5340",
+                              "LocationTownCode": "63000010"
+               },
+               {
+                              "StationUID": "TRTC-BR12",
+                              "StationID": "BR12",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u5c71\u570b\u4e2d",
+                                             "En": "Zhongshan Junior High School"
+                              },
+                              "StationAddress": "104079\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u5fa9\u8208\u5317\u8def376\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.544215,
+                                             "PositionLat": 25.06085,
+                                             "GeoHash": "wsqqtf1y1"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-BR13",
+                              "StationID": "BR13",
+                              "StationName": {
+                                             "Zh_tw": "\u677e\u5c71\u6a5f\u5834",
+                                             "En": "Songshan Airport"
+                              },
+                              "StationAddress": "105008\u81fa\u5317\u5e02\u677e\u5c71\u5340\u6566\u5316\u5317\u8def338\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.55201,
+                                             "PositionLat": 25.062908,
+                                             "GeoHash": "wsqqtfx6p"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u677e\u5c71\u5340",
+                              "LocationTownCode": "63000010"
+               },
+               {
+                              "StationUID": "TRTC-BR14",
+                              "StationID": "BR14",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u76f4",
+                                             "En": "Dazhi"
+                              },
+                              "StationAddress": "104044\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u5317\u5b89\u8def534\u4e4b1\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.54679,
+                                             "PositionLat": 25.07943,
+                                             "GeoHash": "wsqqtvedm"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-BR15",
+                              "StationID": "BR15",
+                              "StationName": {
+                                             "Zh_tw": "\u528d\u5357\u8def",
+                                             "En": "Jiannan Rd."
+                              },
+                              "StationAddress": "104051\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u5317\u5b89\u8def798\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.555582,
+                                             "PositionLat": 25.08483,
+                                             "GeoHash": "wsqqwnd1d"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-BR16",
+                              "StationID": "BR16",
+                              "StationName": {
+                                             "Zh_tw": "\u897f\u6e56",
+                                             "En": "Xihu"
+                              },
+                              "StationAddress": "114066\u81fa\u5317\u5e02\u5167\u6e56\u5340\u5167\u6e56\u8def1\u6bb5256\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.567227,
+                                             "PositionLat": 25.08216,
+                                             "GeoHash": "wsqqwq4d1"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5167\u6e56\u5340",
+                              "LocationTownCode": "63000100"
+               },
+               {
+                              "StationUID": "TRTC-BR17",
+                              "StationID": "BR17",
+                              "StationName": {
+                                             "Zh_tw": "\u6e2f\u5898",
+                                             "En": "Gangqian"
+                              },
+                              "StationAddress": "114004\u81fa\u5317\u5e02\u5167\u6e56\u5340\u5167\u6e56\u8def1\u6bb5663\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.57516,
+                                             "PositionLat": 25.08007,
+                                             "GeoHash": "wsqqwt8mf"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5167\u6e56\u5340",
+                              "LocationTownCode": "63000100"
+               },
+               {
+                              "StationUID": "TRTC-BR18",
+                              "StationID": "BR18",
+                              "StationName": {
+                                             "Zh_tw": "\u6587\u5fb7",
+                                             "En": "Wende"
+                              },
+                              "StationAddress": "114053\u81fa\u5317\u5e02\u5167\u6e56\u5340\u6587\u5fb7\u8def214\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.584999,
+                                             "PositionLat": 25.078455,
+                                             "GeoHash": "wsqqwtrkx"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5167\u6e56\u5340",
+                              "LocationTownCode": "63000100"
+               },
+               {
+                              "StationUID": "TRTC-BR19",
+                              "StationID": "BR19",
+                              "StationName": {
+                                             "Zh_tw": "\u5167\u6e56",
+                                             "En": "Neihu"
+                              },
+                              "StationAddress": "114049\u81fa\u5317\u5e02\u5167\u6e56\u5340\u6210\u529f\u8def4\u6bb5186\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.594363,
+                                             "PositionLat": 25.083675,
+                                             "GeoHash": "wsqqwyq6f"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5167\u6e56\u5340",
+                              "LocationTownCode": "63000100"
+               },
+               {
+                              "StationUID": "TRTC-BR20",
+                              "StationID": "BR20",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u6e56\u516c\u5712",
+                                             "En": "Dahu Park"
+                              },
+                              "StationAddress": "114041\u81fa\u5317\u5e02\u5167\u6e56\u5340\u6210\u529f\u8def5\u6bb511\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.602214,
+                                             "PositionLat": 25.083805,
+                                             "GeoHash": "wsqqxnk5b"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5167\u6e56\u5340",
+                              "LocationTownCode": "63000100"
+               },
+               {
+                              "StationUID": "TRTC-BR21",
+                              "StationID": "BR21",
+                              "StationName": {
+                                             "Zh_tw": "\u846b\u6d32",
+                                             "En": "Huzhou"
+                              },
+                              "StationAddress": "114046\u81fa\u5317\u5e02\u5167\u6e56\u5340\u5eb7\u5be7\u8def3\u6bb516\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.607146,
+                                             "PositionLat": 25.07271,
+                                             "GeoHash": "wsqqxhre5"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5167\u6e56\u5340",
+                              "LocationTownCode": "63000100"
+               },
+               {
+                              "StationUID": "TRTC-BR22",
+                              "StationID": "BR22",
+                              "StationName": {
+                                             "Zh_tw": "\u6771\u6e56",
+                                             "En": "Donghu"
+                              },
+                              "StationAddress": "114056\u81fa\u5317\u5e02\u5167\u6e56\u5340\u5eb7\u5be7\u8def3\u6bb5235\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.611535,
+                                             "PositionLat": 25.067455,
+                                             "GeoHash": "wsqqx76ud"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5167\u6e56\u5340",
+                              "LocationTownCode": "63000100"
+               },
+               {
+                              "StationUID": "TRTC-BR23",
+                              "StationID": "BR23",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u6e2f\u8edf\u9ad4\u5712\u5340",
+                                             "En": "Nangang Software Park"
+                              },
+                              "StationAddress": "115018\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u7d93\u8cbf\u4e8c\u8def183\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.615,
+                                             "PositionLat": 25.05992,
+                                             "GeoHash": "wsqqx6j2d"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5357\u6e2f\u5340",
+                              "LocationTownCode": "63000090"
+               },
+               {
+                              "StationUID": "TRTC-BR24",
+                              "StationID": "BR24",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u6e2f\u5c55\u89bd\u9928",
+                                             "En": "Taipei Nangang Exhibition Center"
+                              },
+                              "StationAddress": "\u6587\u6e56\u7dda\uff1a115018\u81fa\u5317\u5e02\u5357\u6e2f\u5340\u5357\u6e2f\u8def1\u6bb532\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.616861,
+                                             "PositionLat": 25.054919,
+                                             "GeoHash": "wsqqx3neq"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5357\u6e2f\u5340",
+                              "LocationTownCode": "63000090"
+               },
+               {
+                              "StationUID": "TRTC-G01",
+                              "StationID": "G01",
+                              "StationName": {
+                                             "Zh_tw": "\u65b0\u5e97",
+                                             "En": "Xindian"
+                              },
+                              "StationAddress": "231039\u65b0\u5317\u5e02\u65b0\u5e97\u5340\u5317\u5b9c\u8def1\u6bb52\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.53746,
+                                             "PositionLat": 24.95761,
+                                             "GeoHash": "wsqmvxkus"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u5e97\u5340",
+                              "LocationTownCode": "65000060"
+               },
+               {
+                              "StationUID": "TRTC-G02",
+                              "StationID": "G02",
+                              "StationName": {
+                                             "Zh_tw": "\u65b0\u5e97\u5340\u516c\u6240",
+                                             "En": "Xindian District Office"
+                              },
+                              "StationAddress": "231634\u65b0\u5317\u5e02\u65b0\u5e97\u5340\u5317\u65b0\u8def1\u6bb5295\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.5413,
+                                             "PositionLat": 24.96744,
+                                             "GeoHash": "wsqqj9ptv"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u5e97\u5340",
+                              "LocationTownCode": "65000060"
+               },
+               {
+                              "StationUID": "TRTC-G03",
+                              "StationID": "G03",
+                              "StationName": {
+                                             "Zh_tw": "\u4e03\u5f35",
+                                             "En": "Qizhang"
+                              },
+                              "StationAddress": "231007\u65b0\u5317\u5e02\u65b0\u5e97\u5340\u5317\u65b0\u8def2\u6bb5150\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.542985,
+                                             "PositionLat": 24.97545,
+                                             "GeoHash": "wsqqjf8us"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u5e97\u5340",
+                              "LocationTownCode": "65000060"
+               },
+               {
+                              "StationUID": "TRTC-G04",
+                              "StationID": "G04",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u576a\u6797",
+                                             "En": "Dapinglin"
+                              },
+                              "StationAddress": "23143\u65b0\u5317\u5e02\u65b0\u5e97\u5340\u5317\u65b0\u8def3\u6bb5190\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.54134,
+                                             "PositionLat": 24.98272,
+                                             "GeoHash": "wsqqjezwy"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u5e97\u5340",
+                              "LocationTownCode": "65000060"
+               },
+               {
+                              "StationUID": "TRTC-G05",
+                              "StationID": "G05",
+                              "StationName": {
+                                             "Zh_tw": "\u666f\u7f8e",
+                                             "En": "Jingmei"
+                              },
+                              "StationAddress": "116056\u81fa\u5317\u5e02\u6587\u5c71\u5340\u7f85\u65af\u798f\u8def6\u6bb5216\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.540697,
+                                             "PositionLat": 24.992824,
+                                             "GeoHash": "wsqqjtz1z"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u6587\u5c71\u5340",
+                              "LocationTownCode": "63000080"
+               },
+               {
+                              "StationUID": "TRTC-G06",
+                              "StationID": "G06",
+                              "StationName": {
+                                             "Zh_tw": "\u842c\u9686",
+                                             "En": "Wanlong"
+                              },
+                              "StationAddress": "116060\u81fa\u5317\u5e02\u6587\u5c71\u5340\u7f85\u65af\u798f\u8def5\u6bb5214\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.539008,
+                                             "PositionLat": 25.001978,
+                                             "GeoHash": "wsqqjxqp0"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u6587\u5c71\u5340",
+                              "LocationTownCode": "63000080"
+               },
+               {
+                              "StationUID": "TRTC-G07",
+                              "StationID": "G07",
+                              "StationName": {
+                                             "Zh_tw": "\u516c\u9928",
+                                             "En": "Gongguan"
+                              },
+                              "StationAddress": "100046\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u7f85\u65af\u798f\u8def4\u6bb564\u4e4b1\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.534358,
+                                             "PositionLat": 25.014781,
+                                             "GeoHash": "wsqqm9f9e"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-G08",
+                              "StationID": "G08",
+                              "StationName": {
+                                             "Zh_tw": "\u53f0\u96fb\u5927\u6a13",
+                                             "En": "Taipower Building"
+                              },
+                              "StationAddress": "100043\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u7f85\u65af\u798f\u8def3\u6bb5126\u4e4b5\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.528143,
+                                             "PositionLat": 25.020733,
+                                             "GeoHash": "wsqqm6yh6"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-G09",
+                              "StationID": "G09",
+                              "StationName": {
+                                             "Zh_tw": "\u53e4\u4ead",
+                                             "En": "Guting"
+                              },
+                              "StationAddress": "100032\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u7f85\u65af\u798f\u8def2\u6bb5164\u4e4b1\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.522868,
+                                             "PositionLat": 25.026373,
+                                             "GeoHash": "wsqqm7fm0"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-G10",
+                              "StationID": "G10",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u6b63\u7d00\u5ff5\u5802",
+                                             "En": "Chiang Kai-Shek Memorial Hall"
+                              },
+                              "StationAddress": "100207\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u7f85\u65af\u798f\u8def1\u6bb58\u4e4b1\u865fB1?",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.518273,
+                                             "PositionLat": 25.032767,
+                                             "GeoHash": "wsqqmjnfk"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-G11",
+                              "StationID": "G11",
+                              "StationName": {
+                                             "Zh_tw": "\u5c0f\u5357\u9580",
+                                             "En": "Xiaonanmen"
+                              },
+                              "StationAddress": "100057\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u611b\u570b\u897f\u8def22\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.51088,
+                                             "PositionLat": 25.035585,
+                                             "GeoHash": "wsqqmj9db"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-G12",
+                              "StationID": "G12",
+                              "StationName": {
+                                             "Zh_tw": "\u897f\u9580",
+                                             "En": "Ximen"
+                              },
+                              "StationAddress": "100005\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u5bf6\u6176\u8def32\u4e4b1\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.508175,
+                                             "PositionLat": 25.042025,
+                                             "GeoHash": "wsqqkyz83"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-G13",
+                              "StationID": "G13",
+                              "StationName": {
+                                             "Zh_tw": "\u5317\u9580",
+                                             "En": "Beimen"
+                              },
+                              "StationAddress": "103005\u81fa\u5317\u5e02\u5927\u540c\u5340\u5854\u57ce\u885710\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.510184,
+                                             "PositionLat": 25.049554,
+                                             "GeoHash": "wsqqt01h0"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u540c\u5340",
+                              "LocationTownCode": "63000060"
+               },
+               {
+                              "StationUID": "TRTC-G14",
+                              "StationID": "G14",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u5c71",
+                                             "En": "Zhongshan"
+                              },
+                              "StationAddress": "103022\u81fa\u5317\u5e02\u5927\u540c\u5340\u5357\u4eac\u897f\u8def55\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.520364,
+                                             "PositionLat": 25.052621,
+                                             "GeoHash": "wsqqt28qj"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-G15",
+                              "StationID": "G15",
+                              "StationName": {
+                                             "Zh_tw": "\u677e\u6c5f\u5357\u4eac",
+                                             "En": "Songjiang Nanjing"
+                              },
+                              "StationAddress": "104092\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u677e\u6c5f\u8def126\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.53285,
+                                             "PositionLat": 25.052693,
+                                             "GeoHash": "wsqqt89w8"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-G16",
+                              "StationID": "G16",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u4eac\u5fa9\u8208",
+                                             "En": "Nanjing Fuxing"
+                              },
+                              "StationAddress": "105020\u81fa\u5317\u5e02\u677e\u5c71\u5340\u5357\u4eac\u6771\u8def3\u6bb5253\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.544303,
+                                             "PositionLat": 25.052044,
+                                             "GeoHash": "wsqqtb9fe"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u677e\u5c71\u5340",
+                              "LocationTownCode": "63000010"
+               },
+               {
+                              "StationUID": "TRTC-G17",
+                              "StationID": "G17",
+                              "StationName": {
+                                             "Zh_tw": "\u53f0\u5317\u5c0f\u5de8\u86cb",
+                                             "En": "Taipei Arena"
+                              },
+                              "StationAddress": "105037\u81fa\u5317\u5e02\u677e\u5c71\u5340\u5357\u4eac\u6771\u8def4\u6bb510\u4e4b1\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.552549,
+                                             "PositionLat": 25.05152,
+                                             "GeoHash": "wsqqtbrze"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u677e\u5c71\u5340",
+                              "LocationTownCode": "63000010"
+               },
+               {
+                              "StationUID": "TRTC-G18",
+                              "StationID": "G18",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u4eac\u4e09\u6c11",
+                                             "En": "Nanjing Sanmin"
+                              },
+                              "StationAddress": "105062\u81fa\u5317\u5e02\u677e\u5c71\u5340\u5357\u4eac\u6771\u8def5\u6bb5237\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.56471,
+                                             "PositionLat": 25.051588,
+                                             "GeoHash": "wsqqw288p"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u677e\u5c71\u5340",
+                              "LocationTownCode": "63000010"
+               },
+               {
+                              "StationUID": "TRTC-G19",
+                              "StationID": "G19",
+                              "StationName": {
+                                             "Zh_tw": "\u677e\u5c71",
+                                             "En": "Songshan"
+                              },
+                              "StationAddress": "105057\u81fa\u5317\u5e02\u677e\u5c71\u5340\u516b\u5fb7\u8def4\u6bb5742\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.577706,
+                                             "PositionLat": 25.050118,
+                                             "GeoHash": "wsqqw84pt"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u677e\u5c71\u5340",
+                              "LocationTownCode": "63000010"
+               },
+               {
+                              "StationUID": "TRTC-G03A",
+                              "StationID": "G03A",
+                              "StationName": {
+                                             "Zh_tw": "\u5c0f\u78a7\u6f6d",
+                                             "En": "Xiaobitan"
+                              },
+                              "StationAddress": "231222\u65b0\u5317\u5e02\u65b0\u5e97\u5340\u4e2d\u592e\u8def151\u865f4\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.53058,
+                                             "PositionLat": 24.97188,
+                                             "GeoHash": "wsqqj3zze"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u5e97\u5340",
+                              "LocationTownCode": "65000060"
+               },
+               {
+                              "StationUID": "TRTC-O01",
+                              "StationID": "O01",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u52e2\u89d2",
+                                             "En": "Nanshijiao"
+                              },
+                              "StationAddress": "235050\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u6377\u904b\u8def6\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.509237,
+                                             "PositionLat": 24.990065,
+                                             "GeoHash": "wsqqjj23d"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e2d\u548c\u5340",
+                              "LocationTownCode": "65000030"
+               },
+               {
+                              "StationUID": "TRTC-O02",
+                              "StationID": "O02",
+                              "StationName": {
+                                             "Zh_tw": "\u666f\u5b89",
+                                             "En": "Jingan"
+                              },
+                              "StationAddress": "23582\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u666f\u5e73\u8def486\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.505114,
+                                             "PositionLat": 24.99392,
+                                             "GeoHash": "wsqqhyj24"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e2d\u548c\u5340",
+                              "LocationTownCode": "65000030"
+               },
+               {
+                              "StationUID": "TRTC-O03",
+                              "StationID": "O03",
+                              "StationName": {
+                                             "Zh_tw": "\u6c38\u5b89\u5e02\u5834",
+                                             "En": "Yongan Market"
+                              },
+                              "StationAddress": "235066\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u4e2d\u548c\u8def388\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.511225,
+                                             "PositionLat": 25.002895,
+                                             "GeoHash": "wsqqjp9u2"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u6c38\u548c\u5340",
+                              "LocationTownCode": "65000040"
+               },
+               {
+                              "StationUID": "TRTC-O04",
+                              "StationID": "O04",
+                              "StationName": {
+                                             "Zh_tw": "\u9802\u6eaa",
+                                             "En": "Dingxi"
+                              },
+                              "StationAddress": "234016\u65b0\u5317\u5e02\u6c38\u548c\u5340\u6c38\u548c\u8def2\u6bb5168\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.515462,
+                                             "PositionLat": 25.013858,
+                                             "GeoHash": "wsqqm1su7"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u6c38\u548c\u5340",
+                              "LocationTownCode": "65000040"
+               },
+               {
+                              "StationUID": "TRTC-O05",
+                              "StationID": "O05",
+                              "StationName": {
+                                             "Zh_tw": "\u53e4\u4ead",
+                                             "En": "Guting"
+                              },
+                              "StationAddress": "100032\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u7f85\u65af\u798f\u8def2\u6bb5164\u4e4b1\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.522868,
+                                             "PositionLat": 25.026373,
+                                             "GeoHash": "wsqqm7fm0"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-O06",
+                              "StationID": "O06",
+                              "StationName": {
+                                             "Zh_tw": "\u6771\u9580",
+                                             "En": "Dongmen"
+                              },
+                              "StationAddress": "10650\u81fa\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def2\u6bb5166\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.528766,
+                                             "PositionLat": 25.033894,
+                                             "GeoHash": "wsqqmmq91"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-O07",
+                              "StationID": "O07",
+                              "StationName": {
+                                             "Zh_tw": "\u5fe0\u5b5d\u65b0\u751f",
+                                             "En": "Zhongxiao Xinsheng"
+                              },
+                              "StationAddress": "106083\u81fa\u5317\u5e02\u5927\u5b89\u5340\u65b0\u751f\u5357\u8def1\u6bb567\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.53321,
+                                             "PositionLat": 25.042498,
+                                             "GeoHash": "wsqqmwcg1"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-O08",
+                              "StationID": "O08",
+                              "StationName": {
+                                             "Zh_tw": "\u677e\u6c5f\u5357\u4eac",
+                                             "En": "Songjiang Nanjing"
+                              },
+                              "StationAddress": "104092\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u677e\u6c5f\u8def126\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.53285,
+                                             "PositionLat": 25.052693,
+                                             "GeoHash": "wsqqt89w8"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-O09",
+                              "StationID": "O09",
+                              "StationName": {
+                                             "Zh_tw": "\u884c\u5929\u5bae",
+                                             "En": "Xingtian Temple"
+                              },
+                              "StationAddress": "104023\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u677e\u6c5f\u8def316\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.53315,
+                                             "PositionLat": 25.05924,
+                                             "GeoHash": "wsqqt9csx"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-O10",
+                              "StationID": "O10",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u5c71\u570b\u5c0f",
+                                             "En": "Zhongshan Elementary School"
+                              },
+                              "StationAddress": "104028\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u6c11\u6b0a\u6771\u8def1\u6bb571\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.526609,
+                                             "PositionLat": 25.062665,
+                                             "GeoHash": "wsqqt6sbx"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-O11",
+                              "StationID": "O11",
+                              "StationName": {
+                                             "Zh_tw": "\u6c11\u6b0a\u897f\u8def",
+                                             "En": "Minquan W. Rd."
+                              },
+                              "StationAddress": "103045\u81fa\u5317\u5e02\u5927\u540c\u5340\u6c11\u6b0a\u897f\u8def72\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.519585,
+                                             "PositionLat": 25.06235,
+                                             "GeoHash": "wsqqt4ryg"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-O12",
+                              "StationID": "O12",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u6a4b\u982d",
+                                             "En": "Daqiaotou"
+                              },
+                              "StationAddress": "103041\u81fa\u5317\u5e02\u5927\u540c\u5340\u6c11\u6b0a\u897f\u8def223\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.513003,
+                                             "PositionLat": 25.06322,
+                                             "GeoHash": "wsqqt4e5f"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u540c\u5340",
+                              "LocationTownCode": "63000060"
+               },
+               {
+                              "StationUID": "TRTC-O50",
+                              "StationID": "O50",
+                              "StationName": {
+                                             "Zh_tw": "\u4e09\u91cd\u570b\u5c0f",
+                                             "En": "Sanchong Elementary School"
+                              },
+                              "StationAddress": "241054\u65b0\u5317\u5e02\u4e09\u91cd\u5340\u4e09\u548c\u8def3\u6bb55\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.49701,
+                                             "PositionLat": 25.070275,
+                                             "GeoHash": "wsqqsezkv"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e09\u91cd\u5340",
+                              "LocationTownCode": "65000020"
+               },
+               {
+                              "StationUID": "TRTC-O13",
+                              "StationID": "O13",
+                              "StationName": {
+                                             "Zh_tw": "\u53f0\u5317\u6a4b",
+                                             "En": "Taipei Bridge"
+                              },
+                              "StationAddress": "241454\u65b0\u5317\u5e02\u4e09\u91cd\u5340\u91cd\u65b0\u8def1\u6bb5108\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.500575,
+                                             "PositionLat": 25.063075,
+                                             "GeoHash": "wsqqsfd4b"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e09\u91cd\u5340",
+                              "LocationTownCode": "65000020"
+               },
+               {
+                              "StationUID": "TRTC-O51",
+                              "StationID": "O51",
+                              "StationName": {
+                                             "Zh_tw": "\u4e09\u548c\u570b\u4e2d",
+                                             "En": "Sanhe Junior High School"
+                              },
+                              "StationAddress": "241080\u65b0\u5317\u5e02\u4e09\u91cd\u5340\u4e09\u548c\u8def4\u6bb5107\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.486795,
+                                             "PositionLat": 25.07646,
+                                             "GeoHash": "wsqqsmpbz"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e09\u91cd\u5340",
+                              "LocationTownCode": "65000020"
+               },
+               {
+                              "StationUID": "TRTC-O14",
+                              "StationID": "O14",
+                              "StationName": {
+                                             "Zh_tw": "\u83dc\u5bee",
+                                             "En": "Cailiao"
+                              },
+                              "StationAddress": "241007\u65b0\u5317\u5e02\u4e09\u91cd\u5340\u91cd\u65b0\u8def3\u6bb5150\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.491421,
+                                             "PositionLat": 25.059451,
+                                             "GeoHash": "wsqqs9gmg"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e09\u91cd\u5340",
+                              "LocationTownCode": "65000020"
+               },
+               {
+                              "StationUID": "TRTC-O15",
+                              "StationID": "O15",
+                              "StationName": {
+                                             "Zh_tw": "\u4e09\u91cd",
+                                             "En": "Sanchong"
+                              },
+                              "StationAddress": "241012\u65b0\u5317\u5e02\u4e09\u91cd\u5340\u6377\u904b\u8def36\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.48422,
+                                             "PositionLat": 25.05571,
+                                             "GeoHash": "wsqqs3q05"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e09\u91cd\u5340",
+                              "LocationTownCode": "65000020"
+               },
+               {
+                              "StationUID": "TRTC-O52",
+                              "StationID": "O52",
+                              "StationName": {
+                                             "Zh_tw": "\u5f90\u532f\u4e2d\u5b78",
+                                             "En": "St.lgnatius High School"
+                              },
+                              "StationAddress": "247019\u65b0\u5317\u5e02\u8606\u6d32\u5340\u4e2d\u5c71\u4e00\u8def3\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.479945,
+                                             "PositionLat": 25.080485,
+                                             "GeoHash": "wsqqsmfbr"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u8606\u6d32\u5340",
+                              "LocationTownCode": "65000140"
+               },
+               {
+                              "StationUID": "TRTC-O53",
+                              "StationID": "O53",
+                              "StationName": {
+                                             "Zh_tw": "\u4e09\u6c11\u9ad8\u4e2d",
+                                             "En": "Sanmin Senior High School"
+                              },
+                              "StationAddress": "247010\u65b0\u5317\u5e02\u8606\u6d32\u5340\u4e09\u6c11\u8def105\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.473365,
+                                             "PositionLat": 25.085425,
+                                             "GeoHash": "wsqqsnwjn"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u8606\u6d32\u5340",
+                              "LocationTownCode": "65000140"
+               },
+               {
+                              "StationUID": "TRTC-O16",
+                              "StationID": "O16",
+                              "StationName": {
+                                             "Zh_tw": "\u5148\u55c7\u5bae",
+                                             "En": "Xianse Temple"
+                              },
+                              "StationAddress": "241017\u65b0\u5317\u5e02\u4e09\u91cd\u5340\u91cd\u65b0\u8def5\u6bb5515\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.47165,
+                                             "PositionLat": 25.04632,
+                                             "GeoHash": "wsqqkpscq"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e09\u91cd\u5340",
+                              "LocationTownCode": "65000020"
+               },
+               {
+                              "StationUID": "TRTC-O54",
+                              "StationID": "O54",
+                              "StationName": {
+                                             "Zh_tw": "\u8606\u6d32",
+                                             "En": "Luzhou"
+                              },
+                              "StationAddress": "247011\u65b0\u5317\u5e02\u8606\u6d32\u5340\u4e09\u6c11\u8def386\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.46471,
+                                             "PositionLat": 25.09152,
+                                             "GeoHash": "wsqqezzbs"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u8606\u6d32\u5340",
+                              "LocationTownCode": "65000140"
+               },
+               {
+                              "StationUID": "TRTC-O17",
+                              "StationID": "O17",
+                              "StationName": {
+                                             "Zh_tw": "\u982d\u524d\u5e84",
+                                             "En": "Touqianzhuang"
+                              },
+                              "StationAddress": "24251\u65b0\u5317\u5e02\u65b0\u838a\u5340\u601d\u6e90\u8def18\u865fB1",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.460479,
+                                             "PositionLat": 25.039862,
+                                             "GeoHash": "wsqq7ykgf"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u838a\u5340",
+                              "LocationTownCode": "65000050"
+               },
+               {
+                              "StationUID": "TRTC-O18",
+                              "StationID": "O18",
+                              "StationName": {
+                                             "Zh_tw": "\u65b0\u838a",
+                                             "En": "Xinzhuang"
+                              },
+                              "StationAddress": "242008\u65b0\u5317\u5e02\u65b0\u838a\u5340\u4e2d\u6b63\u8def138\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.45218,
+                                             "PositionLat": 25.03608,
+                                             "GeoHash": "wsqq7twv8"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u838a\u5340",
+                              "LocationTownCode": "65000050"
+               },
+               {
+                              "StationUID": "TRTC-O19",
+                              "StationID": "O19",
+                              "StationName": {
+                                             "Zh_tw": "\u8f14\u5927",
+                                             "En": "Fu Jen University"
+                              },
+                              "StationAddress": "242062\u65b0\u5317\u5e02\u65b0\u838a\u5340\u4e2d\u6b63\u8def510\u4e4b1\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.435735,
+                                             "PositionLat": 25.03279,
+                                             "GeoHash": "wsqq7m4f9"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u838a\u5340",
+                              "LocationTownCode": "65000050"
+               },
+               {
+                              "StationUID": "TRTC-O20",
+                              "StationID": "O20",
+                              "StationName": {
+                                             "Zh_tw": "\u4e39\u9cf3",
+                                             "En": "Danfeng"
+                              },
+                              "StationAddress": "242048\u65b0\u5317\u5e02\u65b0\u838a\u5340\u4e2d\u6b63\u8def624\u4e4b1\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.422422,
+                                             "PositionLat": 25.029073,
+                                             "GeoHash": "wsqq7h3hg"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u838a\u5340",
+                              "LocationTownCode": "65000050"
+               },
+               {
+                              "StationUID": "TRTC-O21",
+                              "StationID": "O21",
+                              "StationName": {
+                                             "Zh_tw": "\u8ff4\u9f8d",
+                                             "En": "Huilong"
+                              },
+                              "StationAddress": "242052\u65b0\u5317\u5e02\u65b0\u838a\u5340\u4e2d\u6b63\u8def758\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.411757,
+                                             "PositionLat": 25.022107,
+                                             "GeoHash": "wsqq6g1k6"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u838a\u5340",
+                              "LocationTownCode": "65000050"
+               },
+               {
+                              "StationUID": "TRTC-R02",
+                              "StationID": "R02",
+                              "StationName": {
+                                             "Zh_tw": "\u8c61\u5c71",
+                                             "En": "Xiangshan"
+                              },
+                              "StationAddress": "110022\u81fa\u5317\u5e02\u4fe1\u7fa9\u5340\u4fe1\u7fa9\u8def5\u6bb5152\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.570116,
+                                             "PositionLat": 25.032395,
+                                             "GeoHash": "wsqqqmh8m"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4fe1\u7fa9\u5340",
+                              "LocationTownCode": "63000020"
+               },
+               {
+                              "StationUID": "TRTC-R03",
+                              "StationID": "R03",
+                              "StationName": {
+                                             "Zh_tw": "\u53f0\u5317101/\u4e16\u8cbf",
+                                             "En": "Taipei 101/World Trade Center"
+                              },
+                              "StationAddress": "110013\u81fa\u5317\u5e02\u4fe1\u7fa9\u5340\u4fe1\u7fa9\u8def5\u6bb520\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.563667,
+                                             "PositionLat": 25.032865,
+                                             "GeoHash": "wsqqqjpgn"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4fe1\u7fa9\u5340",
+                              "LocationTownCode": "63000020"
+               },
+               {
+                              "StationUID": "TRTC-R04",
+                              "StationID": "R04",
+                              "StationName": {
+                                             "Zh_tw": "\u4fe1\u7fa9\u5b89\u548c",
+                                             "En": "Xinyi Anhe"
+                              },
+                              "StationAddress": "106049\u81fa\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def4\u6bb5212\u4e4b1\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.552326,
+                                             "PositionLat": 25.033015,
+                                             "GeoHash": "wsqqmvpey"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-R05",
+                              "StationID": "R05",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u5b89",
+                                             "En": "Daan"
+                              },
+                              "StationAddress": "106028\u81fa\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def3\u6bb5180\u865fB1",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.54237,
+                                             "PositionLat": 25.033311,
+                                             "GeoHash": "wsqqmv0mw"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-R06",
+                              "StationID": "R06",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u5b89\u68ee\u6797\u516c\u5712",
+                                             "En": "Daan Park"
+                              },
+                              "StationAddress": "106008\u81fa\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def3\u6bb5100\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.536151,
+                                             "PositionLat": 25.033225,
+                                             "GeoHash": "wsqqmt5vj"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-R07",
+                              "StationID": "R07",
+                              "StationName": {
+                                             "Zh_tw": "\u6771\u9580",
+                                             "En": "Dongmen"
+                              },
+                              "StationAddress": "106007\u81fa\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def2\u6bb5166\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.528766,
+                                             "PositionLat": 25.033894,
+                                             "GeoHash": "wsqqmmq91"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5927\u5b89\u5340",
+                              "LocationTownCode": "63000030"
+               },
+               {
+                              "StationUID": "TRTC-R08",
+                              "StationID": "R08",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u6b63\u7d00\u5ff5\u5802",
+                                             "En": "Chiang Kai-Shek Memorial Hall"
+                              },
+                              "StationAddress": "100207\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u7f85\u65af\u798f\u8def1\u6bb58\u4e4b1\u865fB1?",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.518273,
+                                             "PositionLat": 25.032767,
+                                             "GeoHash": "wsqqmjnfk"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-R09",
+                              "StationID": "R09",
+                              "StationName": {
+                                             "Zh_tw": "\u53f0\u5927\u91ab\u9662",
+                                             "En": "NTU Hospital"
+                              },
+                              "StationAddress": "100006\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u516c\u5712\u8def52\u865fB1",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.51602,
+                                             "PositionLat": 25.041399,
+                                             "GeoHash": "wsqqmntk8"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-R10",
+                              "StationID": "R10",
+                              "StationName": {
+                                             "Zh_tw": "\u53f0\u5317\u8eca\u7ad9",
+                                             "En": "Taipei Main Station"
+                              },
+                              "StationAddress": "100009\u81fa\u5317\u5e02\u4e2d\u6b63\u5340\u5fe0\u5b5d\u897f\u8def1\u6bb549\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.517415,
+                                             "PositionLat": 25.04631,
+                                             "GeoHash": "wsqqmpw32"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u6b63\u5340",
+                              "LocationTownCode": "63000050"
+               },
+               {
+                              "StationUID": "TRTC-R11",
+                              "StationID": "R11",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u5c71",
+                                             "En": "Zhongshan"
+                              },
+                              "StationAddress": "103014\u81fa\u5317\u5e02\u5927\u540c\u5340\u5357\u4eac\u897f\u8def16\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.520364,
+                                             "PositionLat": 25.052621,
+                                             "GeoHash": "wsqqt28qj"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-R12",
+                              "StationID": "R12",
+                              "StationName": {
+                                             "Zh_tw": "\u96d9\u9023",
+                                             "En": "Shuanglian"
+                              },
+                              "StationAddress": "103018\u81fa\u5317\u5e02\u5927\u540c\u5340\u6c11\u751f\u897f\u8def47\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.520685,
+                                             "PositionLat": 25.057575,
+                                             "GeoHash": "wsqqt38dv"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-R13",
+                              "StationID": "R13",
+                              "StationName": {
+                                             "Zh_tw": "\u6c11\u6b0a\u897f\u8def",
+                                             "En": "Minquan W. Rd."
+                              },
+                              "StationAddress": "103045\u81fa\u5317\u5e02\u5927\u540c\u5340\u6c11\u6b0a\u897f\u8def72\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.519585,
+                                             "PositionLat": 25.06235,
+                                             "GeoHash": "wsqqt4ryg"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-R14",
+                              "StationID": "R14",
+                              "StationName": {
+                                             "Zh_tw": "\u5713\u5c71",
+                                             "En": "Yuanshan"
+                              },
+                              "StationAddress": "103032\u81fa\u5317\u5e02\u5927\u540c\u5340\u9152\u6cc9\u88579\u4e4b1\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.520074,
+                                             "PositionLat": 25.071409,
+                                             "GeoHash": "wsqqtk05w"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u4e2d\u5c71\u5340",
+                              "LocationTownCode": "63000040"
+               },
+               {
+                              "StationUID": "TRTC-R15",
+                              "StationID": "R15",
+                              "StationName": {
+                                             "Zh_tw": "\u528d\u6f6d",
+                                             "En": "Jiantan"
+                              },
+                              "StationAddress": "111011\u81fa\u5317\u5e02\u58eb\u6797\u5340\u4e2d\u5c71\u5317\u8def5\u6bb565\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.524955,
+                                             "PositionLat": 25.084201,
+                                             "GeoHash": "wsqqtq7y0"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u58eb\u6797\u5340",
+                              "LocationTownCode": "63000110"
+               },
+               {
+                              "StationUID": "TRTC-R16",
+                              "StationID": "R16",
+                              "StationName": {
+                                             "Zh_tw": "\u58eb\u6797",
+                                             "En": "Shilin"
+                              },
+                              "StationAddress": "111012\u81fa\u5317\u5e02\u58eb\u6797\u5340\u798f\u5fb7\u8def1\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.52623,
+                                             "PositionLat": 25.093492,
+                                             "GeoHash": "wsqqv2hsn"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u58eb\u6797\u5340",
+                              "LocationTownCode": "63000110"
+               },
+               {
+                              "StationUID": "TRTC-R17",
+                              "StationID": "R17",
+                              "StationName": {
+                                             "Zh_tw": "\u829d\u5c71",
+                                             "En": "Zhishan"
+                              },
+                              "StationAddress": "111031\u81fa\u5317\u5e02\u58eb\u6797\u5340\u798f\u570b\u8def70\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.522546,
+                                             "PositionLat": 25.102718,
+                                             "GeoHash": "wsqqv3f1b"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u58eb\u6797\u5340",
+                              "LocationTownCode": "63000110"
+               },
+               {
+                              "StationUID": "TRTC-R18",
+                              "StationID": "R18",
+                              "StationName": {
+                                             "Zh_tw": "\u660e\u5fb7",
+                                             "En": "Mingde"
+                              },
+                              "StationAddress": "112038\u81fa\u5317\u5e02\u5317\u6295\u5340\u660e\u5fb7\u8def95\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.518785,
+                                             "PositionLat": 25.109815,
+                                             "GeoHash": "wsqqv5p72"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-R19",
+                              "StationID": "R19",
+                              "StationName": {
+                                             "Zh_tw": "\u77f3\u724c",
+                                             "En": "Shipai"
+                              },
+                              "StationAddress": "112052\u81fa\u5317\u5e02\u5317\u6295\u5340\u77f3\u724c\u8def1\u6bb5200\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.515572,
+                                             "PositionLat": 25.114455,
+                                             "GeoHash": "wsqqv5uyq"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-R20",
+                              "StationID": "R20",
+                              "StationName": {
+                                             "Zh_tw": "\u552d\u54e9\u5cb8",
+                                             "En": "Qilian"
+                              },
+                              "StationAddress": "112025\u81fa\u5317\u5e02\u5317\u6295\u5340\u6771\u83ef\u88572\u6bb5301\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.506234,
+                                             "PositionLat": 25.120852,
+                                             "GeoHash": "wsqquvn5s"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-R21",
+                              "StationID": "R21",
+                              "StationName": {
+                                             "Zh_tw": "\u5947\u5ca9",
+                                             "En": "Qiyan"
+                              },
+                              "StationAddress": "112057\u81fa\u5317\u5e02\u5317\u6295\u5340\u4e09\u5408\u88572\u6bb5489\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.50114,
+                                             "PositionLat": 25.12547,
+                                             "GeoHash": "wsqquvfqm"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-R22",
+                              "StationID": "R22",
+                              "StationName": {
+                                             "Zh_tw": "\u5317\u6295",
+                                             "En": "Beitou"
+                              },
+                              "StationAddress": "112006\u81fa\u5317\u5e02\u5317\u6295\u5340\u5149\u660e\u8def1\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.498648,
+                                             "PositionLat": 25.131819,
+                                             "GeoHash": "wsqquz0e7"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-R23",
+                              "StationID": "R23",
+                              "StationName": {
+                                             "Zh_tw": "\u5fa9\u8208\u5d17",
+                                             "En": "Fuxinggang"
+                              },
+                              "StationAddress": "112054\u81fa\u5317\u5e02\u5317\u6295\u5340\u4e2d\u592e\u5317\u8def3\u6bb553\u5df710\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.485456,
+                                             "PositionLat": 25.137497,
+                                             "GeoHash": "wsqrh2ph8"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-R24",
+                              "StationID": "R24",
+                              "StationName": {
+                                             "Zh_tw": "\u5fe0\u7fa9",
+                                             "En": "Zhongyi"
+                              },
+                              "StationAddress": "112017\u81fa\u5317\u5e02\u5317\u6295\u5340\u4e2d\u592e\u5317\u8def4\u6bb5301\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.473298,
+                                             "PositionLat": 25.130923,
+                                             "GeoHash": "wsqqunynh"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-R25",
+                              "StationID": "R25",
+                              "StationName": {
+                                             "Zh_tw": "\u95dc\u6e21",
+                                             "En": "Guandu"
+                              },
+                              "StationAddress": "112021\u81fa\u5317\u5e02\u5317\u6295\u5340\u5927\u5ea6\u8def3\u6bb5296\u5df751\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.467,
+                                             "PositionLat": 25.12551,
+                                             "GeoHash": "wsqqujcwd"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-R26",
+                              "StationID": "R26",
+                              "StationName": {
+                                             "Zh_tw": "\u7af9\u570d",
+                                             "En": "Zhuwei"
+                              },
+                              "StationAddress": "251033\u65b0\u5317\u5e02\u6de1\u6c34\u5340\u6c11\u6b0a\u8def50\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.45955,
+                                             "PositionLat": 25.1369,
+                                             "GeoHash": "wsqr5bh1h"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u6de1\u6c34\u5340",
+                              "LocationTownCode": "65000100"
+               },
+               {
+                              "StationUID": "TRTC-R27",
+                              "StationID": "R27",
+                              "StationName": {
+                                             "Zh_tw": "\u7d05\u6a39\u6797",
+                                             "En": "Hongshulin"
+                              },
+                              "StationAddress": "251033\u65b0\u5317\u5e02\u6de1\u6c34\u5340\u4e2d\u6b63\u6771\u8def2\u6bb568\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.4588,
+                                             "PositionLat": 25.15399,
+                                             "GeoHash": "wsqr5g5se"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u6de1\u6c34\u5340",
+                              "LocationTownCode": "65000100"
+               },
+               {
+                              "StationUID": "TRTC-R28",
+                              "StationID": "R28",
+                              "StationName": {
+                                             "Zh_tw": "\u6de1\u6c34",
+                                             "En": "Tamsui"
+                              },
+                              "StationAddress": "251018\u65b0\u5317\u5e02\u6de1\u6c34\u5340\u4e2d\u6b63\u8def1\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.445805,
+                                             "PositionLat": 25.167745,
+                                             "GeoHash": "wsqr5tdhs"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u6de1\u6c34\u5340",
+                              "LocationTownCode": "65000100"
+               },
+               {
+                              "StationUID": "TRTC-R22A",
+                              "StationID": "R22A",
+                              "StationName": {
+                                             "Zh_tw": "\u65b0\u5317\u6295",
+                                             "En": "Xinbeitou"
+                              },
+                              "StationAddress": "112028\u81fa\u5317\u5e02\u5317\u6295\u5340\u5927\u696d\u8def700\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.502595,
+                                             "PositionLat": 25.136931,
+                                             "GeoHash": "wsqrhb53p"
+                              },
+                              "LocationCity": "\u81fa\u5317\u5e02",
+                              "LocationCityCode": "TPE",
+                              "LocationTown": "\u5317\u6295\u5340",
+                              "LocationTownCode": "63000120"
+               },
+               {
+                              "StationUID": "TRTC-Y07",
+                              "StationID": "Y07",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u576a\u6797",
+                                             "En": "Dapinglin"
+                              },
+                              "StationAddress": "23143\u65b0\u5317\u5e02\u65b0\u5e97\u5340\u5317\u65b0\u8def3\u6bb5190\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.54134,
+                                             "PositionLat": 24.98272,
+                                             "GeoHash": "wsqqjezwy"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u5e97\u5340",
+                              "LocationTownCode": "65000060"
+               },
+               {
+                              "StationUID": "TRTC-Y08",
+                              "StationID": "Y08",
+                              "StationName": {
+                                             "Zh_tw": "\u5341\u56db\u5f35",
+                                             "En": "Shisizhang"
+                              },
+                              "StationAddress": "23141\u65b0\u5317\u5e02\u65b0\u5e97\u5340\u6c11\u6b0a\u8def282\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.527698,
+                                             "PositionLat": 24.984333,
+                                             "GeoHash": "wsqqjkmb2"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u5e97\u5340",
+                              "LocationTownCode": "65000060"
+               },
+               {
+                              "StationUID": "TRTC-Y09",
+                              "StationID": "Y09",
+                              "StationName": {
+                                             "Zh_tw": "\u79c0\u6717\u6a4b",
+                                             "En": "Xiulang Bridge"
+                              },
+                              "StationAddress": "23582\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u666f\u5e73\u8def2\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.525051,
+                                             "PositionLat": 24.990549,
+                                             "GeoHash": "wsqqjm7u6"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e2d\u548c\u5340",
+                              "LocationTownCode": "65000030"
+               },
+               {
+                              "StationUID": "TRTC-Y10",
+                              "StationID": "Y10",
+                              "StationName": {
+                                             "Zh_tw": "\u666f\u5e73",
+                                             "En": "Jingping"
+                              },
+                              "StationAddress": "23578\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u666f\u5e73\u8def121\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.516553,
+                                             "PositionLat": 24.991968,
+                                             "GeoHash": "wsqqjjtsu"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e2d\u548c\u5340",
+                              "LocationTownCode": "65000030"
+               },
+               {
+                              "StationUID": "TRTC-Y11",
+                              "StationID": "Y11",
+                              "StationName": {
+                                             "Zh_tw": "\u666f\u5b89",
+                                             "En": "Jingan"
+                              },
+                              "StationAddress": "23582\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u666f\u5e73\u8def486\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.505114,
+                                             "PositionLat": 24.99392,
+                                             "GeoHash": "wsqqhyj24"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e2d\u548c\u5340",
+                              "LocationTownCode": "65000030"
+               },
+               {
+                              "StationUID": "TRTC-Y12",
+                              "StationID": "Y12",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u548c",
+                                             "En": "Zhonghe"
+                              },
+                              "StationAddress": "23558\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u4e2d\u5c71\u8def\u4e8c\u6bb5271\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.496052,
+                                             "PositionLat": 25.001981,
+                                             "GeoHash": "wsqqhxqxp"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e2d\u548c\u5340",
+                              "LocationTownCode": "65000030"
+               },
+               {
+                              "StationUID": "TRTC-Y13",
+                              "StationID": "Y13",
+                              "StationName": {
+                                             "Zh_tw": "\u6a4b\u548c",
+                                             "En": "Qiaohe"
+                              },
+                              "StationAddress": "23557\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u677f\u5357\u8def430\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.490461,
+                                             "PositionLat": 25.004413,
+                                             "GeoHash": "wsqqhxftk"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e2d\u548c\u5340",
+                              "LocationTownCode": "65000030"
+               },
+               {
+                              "StationUID": "TRTC-Y14",
+                              "StationID": "Y14",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u539f",
+                                             "En": "Zhongyuan"
+                              },
+                              "StationAddress": "23556\u65b0\u5317\u5e02\u4e2d\u548c\u5340\u677f\u5357\u8def510\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.484159,
+                                             "PositionLat": 25.00841,
+                                             "GeoHash": "wsqqk2whd"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u4e2d\u548c\u5340",
+                              "LocationTownCode": "65000030"
+               },
+               {
+                              "StationUID": "TRTC-Y15",
+                              "StationID": "Y15",
+                              "StationName": {
+                                             "Zh_tw": "\u677f\u65b0",
+                                             "En": "Banxin"
+                              },
+                              "StationAddress": "22066\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u677f\u65b0\u8def109\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.472212,
+                                             "PositionLat": 25.014491,
+                                             "GeoHash": "wsqqk1trg"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u677f\u6a4b\u5340",
+                              "LocationTownCode": "65000010"
+               },
+               {
+                              "StationUID": "TRTC-Y16",
+                              "StationID": "Y16",
+                              "StationName": {
+                                             "Zh_tw": "\u677f\u6a4b",
+                                             "En": "Banqiao"
+                              },
+                              "StationAddress": "22041\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u65b0\u7ad9\u8def66\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.464825,
+                                             "PositionLat": 25.015156,
+                                             "GeoHash": "wsqq7czgz"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u677f\u6a4b\u5340",
+                              "LocationTownCode": "65000010"
+               },
+               {
+                              "StationUID": "TRTC-Y17",
+                              "StationID": "Y17",
+                              "StationName": {
+                                             "Zh_tw": "\u65b0\u57d4\u6c11\u751f",
+                                             "En": "Xinpu Minsheng"
+                              },
+                              "StationAddress": "22047\u65b0\u5317\u5e02\u677f\u6a4b\u5340\u6c11\u751f\u8def3\u6bb570\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.466839,
+                                             "PositionLat": 25.026125,
+                                             "GeoHash": "wsqqk5c7w"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u677f\u6a4b\u5340",
+                              "LocationTownCode": "65000010"
+               },
+               {
+                              "StationUID": "TRTC-Y18",
+                              "StationID": "Y18",
+                              "StationName": {
+                                             "Zh_tw": "\u982d\u524d\u5e84",
+                                             "En": "Touqianzhuang"
+                              },
+                              "StationAddress": "24251\u65b0\u5317\u5e02\u65b0\u838a\u5340\u601d\u6e90\u8def18\u865fB1",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.460479,
+                                             "PositionLat": 25.039862,
+                                             "GeoHash": "wsqq7ykgf"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u838a\u5340",
+                              "LocationTownCode": "65000050"
+               },
+               {
+                              "StationUID": "TRTC-Y19",
+                              "StationID": "Y19",
+                              "StationName": {
+                                             "Zh_tw": "\u5e78\u798f",
+                                             "En": "Xingfu"
+                              },
+                              "StationAddress": "24250\u65b0\u5317\u5e02\u65b0\u838a\u5340\u601d\u6e90\u8def292\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.460216,
+                                             "PositionLat": 25.050282,
+                                             "GeoHash": "wsqqebk8k"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u838a\u5340",
+                              "LocationTownCode": "65000050"
+               },
+               {
+                              "StationUID": "TRTC-Y20",
+                              "StationID": "Y20",
+                              "StationName": {
+                                             "Zh_tw": "\u65b0\u5317\u7522\u696d\u5712\u5340",
+                                             "En": "New Taipei Industrial Park"
+                              },
+                              "StationAddress": "24886\u65b0\u5317\u5e02\u65b0\u838a\u5340\u4e94\u5de5\u8def35\u865f",
+                              "BikeAllowOnHoliday": false,
+                              "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+                              "UpdateTime": "2020-11-05T00:00:00+08:00",
+                              "VersionID": 4,
+                              "StationPosition": {
+                                             "PositionLon": 121.459926,
+                                             "PositionLat": 25.061548,
+                                             "GeoHash": "wsqqefk6j"
+                              },
+                              "LocationCity": "\u65b0\u5317\u5e02",
+                              "LocationCityCode": "NWT",
+                              "LocationTown": "\u65b0\u838a\u5340",
+                              "LocationTownCode": "65000050"
+               }
+]

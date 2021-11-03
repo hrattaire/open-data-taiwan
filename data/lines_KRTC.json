@@ -1,0 +1,54 @@
+[
+               {
+                              "NetworkID": "KRTC-Network",
+                              "NetworkName": {
+                                             "Zh_tw": "\u9ad8\u96c4\u6377\u904b\u7cfb\u7d71\u8def\u7db2",
+                                             "En": "Kaohsiung Metro Network"
+                              },
+                              "OperatorCode": "KRTC",
+                              "OperatorName": {
+                                             "Zh_tw": "\u9ad8\u96c4\u6377\u904b\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                                             "En": "Kaohsiung Rapid Transit Corporation"
+                              },
+                              "NetworkMapURL": "http://www.krtc.com.tw/images/newInnerSite/guide/guide_routemap.png",
+                              "Lines": [
+                                             {
+                                                            "LineNo": "R",
+                                                            "LineID": "R"
+                                             },
+                                             {
+                                                            "LineNo": "O",
+                                                            "LineID": "O"
+                                             }
+                              ],
+                              "SrcUpdateTime": "2017-05-26T00:00:00+08:00",
+                              "UpdateTime": "2021-01-18T10:44:35+08:00",
+                              "VersionID": 2
+               },
+               {
+                              "NetworkID": "KRTC-Network",
+                              "NetworkName": {
+                                             "Zh_tw": "\u9ad8\u96c4\u6377\u904b\u7cfb\u7d71\u8def\u7db2",
+                                             "En": "Kaohsiung Metro Network"
+                              },
+                              "OperatorCode": "KRTC",
+                              "OperatorName": {
+                                             "Zh_tw": "\u9ad8\u96c4\u6377\u904b\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                                             "En": "Kaohsiung Rapid Transit Corporation"
+                              },
+                              "NetworkMapURL": "https://www.krtc.com.tw/Content/userfiles/images/guide-map.jpg",
+                              "Lines": [
+                                             {
+                                                            "LineNo": "R",
+                                                            "LineID": "R"
+                                             },
+                                             {
+                                                            "LineNo": "O",
+                                                            "LineID": "O"
+                                             }
+                              ],
+                              "SrcUpdateTime": "2017-05-26T00:00:00+08:00",
+                              "UpdateTime": "2021-01-18T10:44:35+08:00",
+                              "VersionID": 2
+               }
+]

@@ -1,0 +1,838 @@
+[
+               {
+                              "StationUID": "KRTC-O1",
+                              "StationID": "O1",
+                              "StationName": {
+                                             "Zh_tw": "\u897f\u5b50\u7063",
+                                             "En": "Sizihwan"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u9f13\u5c71\u5340\u81e8\u6d77\u4e8c\u8def17-1\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.274541,
+                                             "PositionLat": 22.621783,
+                                             "GeoHash": "wsj88yjjr"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u9f13\u5c71\u5340",
+                              "LocationTownCode": "64000020"
+               },
+               {
+                              "StationUID": "KRTC-O2",
+                              "StationID": "O2",
+                              "StationName": {
+                                             "Zh_tw": "\u9e7d\u57d5\u57d4",
+                                             "En": "Yanchengpu"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u9e7d\u57d5\u5340\u5927\u52c7\u8def96\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.28378,
+                                             "PositionLat": 22.623517,
+                                             "GeoHash": "wsj89n7zx"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u9e7d\u57d5\u5340",
+                              "LocationTownCode": "64000010"
+               },
+               {
+                              "StationUID": "KRTC-O4",
+                              "StationID": "O4",
+                              "StationName": {
+                                             "Zh_tw": "\u5e02\u8b70\u6703",
+                                             "En": "City Council"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u524d\u91d1\u5340\u4e2d\u6b63\u56db\u8def192-1\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.294567,
+                                             "PositionLat": 22.628924,
+                                             "GeoHash": "wsj89r7z4"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u524d\u91d1\u5340",
+                              "LocationTownCode": "64000070"
+               },
+               {
+                              "StationUID": "KRTC-O5",
+                              "StationID": "O5",
+                              "StationName": {
+                                             "Zh_tw": "\u7f8e\u9e97\u5cf6",
+                                             "En": "Formosa Boulevard"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u65b0\u8208\u5340\u4e2d\u5c71\u4e00\u8def115\u865f\u5730\u4e0b\u4e00\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.301912,
+                                             "PositionLat": 22.631392,
+                                             "GeoHash": "wsj89xcjm"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u65b0\u8208\u5340",
+                              "LocationTownCode": "64000060"
+               },
+               {
+                              "StationUID": "KRTC-O6",
+                              "StationID": "O6",
+                              "StationName": {
+                                             "Zh_tw": "\u4fe1\u7fa9\u570b\u5c0f",
+                                             "En": "Sinyi Elementary School"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u65b0\u8208\u5340\u4e2d\u6b63\u4e09\u8def32-1\u865f\u5730\u4e0b\u4e00\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.311447,
+                                             "PositionLat": 22.630735,
+                                             "GeoHash": "wsj89zb1e"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u65b0\u8208\u5340",
+                              "LocationTownCode": "64000060"
+               },
+               {
+                              "StationUID": "KRTC-O7",
+                              "StationID": "O7",
+                              "StationName": {
+                                             "Zh_tw": "\u6587\u5316\u4e2d\u5fc3",
+                                             "En": "Cultural Center"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u82d3\u96c5\u5340\u4e2d\u6b63\u4e8c\u8def45\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.317765,
+                                             "PositionLat": 22.630271,
+                                             "GeoHash": "wsj89zswz"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u82d3\u96c5\u5340",
+                              "LocationTownCode": "64000080"
+               },
+               {
+                              "StationUID": "KRTC-O8",
+                              "StationID": "O8",
+                              "StationName": {
+                                             "Zh_tw": "\u4e94\u584a\u539d",
+                                             "En": "Wukuaicuo"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u82d3\u96c5\u5340\u4e2d\u6b63\u4e00\u8def286\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.328381,
+                                             "PositionLat": 22.629558,
+                                             "GeoHash": "wsj8dps6w"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u82d3\u96c5\u5340",
+                              "LocationTownCode": "64000080"
+               },
+               {
+                              "StationUID": "KRTC-O9",
+                              "StationID": "O9",
+                              "StationName": {
+                                             "Zh_tw": "\u6280\u64ca\u9928",
+                                             "En": "Martial Arts Stadium"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u82d3\u96c5\u5340\u4e2d\u6b63\u4e00\u8def99\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.334588,
+                                             "PositionLat": 22.627312,
+                                             "GeoHash": "wsj8dr0vx"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u82d3\u96c5\u5340",
+                              "LocationTownCode": "64000080"
+               },
+               {
+                              "StationUID": "KRTC-O10",
+                              "StationID": "O10",
+                              "StationName": {
+                                             "Zh_tw": "\u885b\u6b66\u71df",
+                                             "En": "Weiwuying"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u82d3\u96c5\u5340\u4e2d\u6b63\u4e00\u8def2\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.340888,
+                                             "PositionLat": 22.625209,
+                                             "GeoHash": "wsj8dqv93"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u82d3\u96c5\u5340",
+                              "LocationTownCode": "64000080"
+               },
+               {
+                              "StationUID": "KRTC-O11",
+                              "StationID": "O11",
+                              "StationName": {
+                                             "Zh_tw": "\u9cf3\u5c71\u897f\u7ad9",
+                                             "En": "Fongshan West"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u9cf3\u5c71\u5340\u81ea\u7531\u8def281\u865f\u5730\u4e0b\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.34827,
+                                             "PositionLat": 22.62529,
+                                             "GeoHash": "wsj8dwfcv"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u9cf3\u5c71\u5340",
+                              "LocationTownCode": "64000120"
+               },
+               {
+                              "StationUID": "KRTC-O12",
+                              "StationID": "O12",
+                              "StationName": {
+                                             "Zh_tw": "\u9cf3\u5c71",
+                                             "En": "Fongshan"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u9cf3\u5c71\u5340\u5149\u9060\u8def446\u865f\u5730\u4e0b\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.355857,
+                                             "PositionLat": 22.625993,
+                                             "GeoHash": "wsj8dybmy"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u9cf3\u5c71\u5340",
+                              "LocationTownCode": "64000120"
+               },
+               {
+                              "StationUID": "KRTC-O13",
+                              "StationID": "O13",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u6771",
+                                             "En": "Dadong"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u9cf3\u5c71\u5340\u5149\u9060\u8def226\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.36316,
+                                             "PositionLat": 22.625282,
+                                             "GeoHash": "wsj8dyvcb"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u9cf3\u5c71\u5340",
+                              "LocationTownCode": "64000120"
+               },
+               {
+                              "StationUID": "KRTC-O14",
+                              "StationID": "O14",
+                              "StationName": {
+                                             "Zh_tw": "\u9cf3\u5c71\u570b\u4e2d",
+                                             "En": "Fongshan Junior High School"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u9cf3\u5c71\u5340\u4e2d\u5c71\u6771\u8def225\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.372483,
+                                             "PositionLat": 22.624923,
+                                             "GeoHash": "wsj8ensxd"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u9cf3\u5c71\u5340",
+                              "LocationTownCode": "64000120"
+               },
+               {
+                              "StationUID": "KRTC-OT1",
+                              "StationID": "OT1",
+                              "StationName": {
+                                             "Zh_tw": "\u5927\u5bee",
+                                             "En": "Daliao"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u5927\u5bee\u5340\u6377\u897f\u8def300\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.390429,
+                                             "PositionLat": 22.622223,
+                                             "GeoHash": "wsj8ew38h"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u5927\u5bee\u5340",
+                              "LocationTownCode": "64000140"
+               },
+               {
+                              "StationUID": "KRTC-R3",
+                              "StationID": "R3",
+                              "StationName": {
+                                             "Zh_tw": "\u5c0f\u6e2f",
+                                             "En": "Siaogang"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u5c0f\u6e2f\u5340\u6cbf\u6d77\u4e00\u8def280\u865f\u5730\u4e0b\u4e00\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.353812,
+                                             "PositionLat": 22.564813,
+                                             "GeoHash": "wsj86eycx"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u5c0f\u6e2f\u5340",
+                              "LocationTownCode": "64000110"
+               },
+               {
+                              "StationUID": "KRTC-R4",
+                              "StationID": "R4",
+                              "StationName": {
+                                             "Zh_tw": "\u9ad8\u96c4\u570b\u969b\u6a5f\u5834",
+                                             "En": "Kaohsiung International Airport"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u5c0f\u6e2f\u5340\u4e2d\u5c71\u56db\u8def2\u4e4b2\u865f\u5730\u4e0b\u4e00\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.341746,
+                                             "PositionLat": 22.570087,
+                                             "GeoHash": "wsj86ky0m"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u5c0f\u6e2f\u5340",
+                              "LocationTownCode": "64000110"
+               },
+               {
+                              "StationUID": "KRTC-R4A",
+                              "StationID": "R4A",
+                              "StationName": {
+                                             "Zh_tw": "\u8349\u8859",
+                                             "En": "Caoya"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u524d\u93ae\u5340\u7fe0\u4ea8\u5357\u8def555\u865f\u5730\u4e0b\u4e00\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.32876,
+                                             "PositionLat": 22.580376,
+                                             "GeoHash": "wsj86nssp"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u524d\u93ae\u5340",
+                              "LocationTownCode": "64000090"
+               },
+               {
+                              "StationUID": "KRTC-R5",
+                              "StationID": "R5",
+                              "StationName": {
+                                             "Zh_tw": "\u524d\u93ae\u9ad8\u4e2d",
+                                             "En": "Cianjhen Senior High School"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u524d\u93ae\u5340\u7fe0\u4ea8\u5317\u8def225\u865f\u5730\u4e0b\u4e00\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.321743,
+                                             "PositionLat": 22.588356,
+                                             "GeoHash": "wsj89bpde"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u524d\u93ae\u5340",
+                              "LocationTownCode": "64000090"
+               },
+               {
+                              "StationUID": "KRTC-R6",
+                              "StationID": "R6",
+                              "StationName": {
+                                             "Zh_tw": "\u51f1\u65cb",
+                                             "En": "Kaisyuan"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u524d\u93ae\u5340\u4e2d\u5c71\u4e09\u8def1\u865f\u5730\u4e0b\u4e00\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.315435,
+                                             "PositionLat": 22.596794,
+                                             "GeoHash": "wsj89ce5b"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u524d\u93ae\u5340",
+                              "LocationTownCode": "64000090"
+               },
+               {
+                              "StationUID": "KRTC-R7",
+                              "StationID": "R7",
+                              "StationName": {
+                                             "Zh_tw": "\u7345\u7532",
+                                             "En": "Shihjia"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u524d\u93ae\u5340\u4e2d\u5c71\u4e09\u8def150\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.308082,
+                                             "PositionLat": 22.606049,
+                                             "GeoHash": "wsj89em9v"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u524d\u93ae\u5340",
+                              "LocationTownCode": "64000090"
+               },
+               {
+                              "StationUID": "KRTC-R8",
+                              "StationID": "R8",
+                              "StationName": {
+                                             "Zh_tw": "\u4e09\u591a\u5546\u5708",
+                                             "En": "Sanduo Shopping District"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u524d\u93ae\u5340\u4e2d\u5c71\u4e8c\u8def268\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.304584,
+                                             "PositionLat": 22.613961,
+                                             "GeoHash": "wsj89sepg"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u82d3\u96c5\u5340",
+                              "LocationTownCode": "64000080"
+               },
+               {
+                              "StationUID": "KRTC-R9",
+                              "StationID": "R9",
+                              "StationName": {
+                                             "Zh_tw": "\u4e2d\u592e\u516c\u5712",
+                                             "En": "Central Park"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u524d\u91d1\u5340\u4e2d\u5c71\u4e00\u8def11\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.301106,
+                                             "PositionLat": 22.624851,
+                                             "GeoHash": "wsj89w8x6"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u524d\u91d1\u5340",
+                              "LocationTownCode": "64000070"
+               },
+               {
+                              "StationUID": "KRTC-R10",
+                              "StationID": "R10",
+                              "StationName": {
+                                             "Zh_tw": "\u7f8e\u9e97\u5cf6",
+                                             "En": "Formosa Boulevard"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u65b0\u8208\u5340\u4e2d\u5c71\u4e00\u8def115\u865f\u5730\u4e0b\u4e00\u6a13",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.301912,
+                                             "PositionLat": 22.631392,
+                                             "GeoHash": "wsj89xcjm"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u65b0\u8208\u5340",
+                              "LocationTownCode": "64000060"
+               },
+               {
+                              "StationUID": "KRTC-R11",
+                              "StationID": "R11",
+                              "StationName": {
+                                             "Zh_tw": "\u9ad8\u96c4\u8eca\u7ad9",
+                                             "En": "Kaohsiung Main Station"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u4e09\u6c11\u5340\u5efa\u570b\u4e8c\u8def320\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.302813,
+                                             "PositionLat": 22.638007,
+                                             "GeoHash": "wsj8c91gf"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u4e09\u6c11\u5340",
+                              "LocationTownCode": "64000050"
+               },
+               {
+                              "StationUID": "KRTC-R12",
+                              "StationID": "R12",
+                              "StationName": {
+                                             "Zh_tw": "\u5f8c\u9a5b",
+                                             "En": "Houyi"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u4e09\u6c11\u5340\u535a\u611b\u4e00\u8def220\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.303359,
+                                             "PositionLat": 22.648503,
+                                             "GeoHash": "wsj8ce41p"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u4e09\u6c11\u5340",
+                              "LocationTownCode": "64000050"
+               },
+               {
+                              "StationUID": "KRTC-R13",
+                              "StationID": "R13",
+                              "StationName": {
+                                             "Zh_tw": "\u51f9\u5b50\u5e95",
+                                             "En": "Aozihdi"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u9f13\u5c71\u5340\u535a\u611b\u4e8c\u8def21\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.303254,
+                                             "PositionLat": 22.657078,
+                                             "GeoHash": "wsj8csd5h"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u5de6\u71df\u5340",
+                              "LocationTownCode": "64000030"
+               },
+               {
+                              "StationUID": "KRTC-R14",
+                              "StationID": "R14",
+                              "StationName": {
+                                             "Zh_tw": "\u5de8\u86cb",
+                                             "En": "Kaohsiung Arena"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u5de6\u71df\u5340\u535a\u611b\u4e8c\u8def485\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.303134,
+                                             "PositionLat": 22.66636,
+                                             "GeoHash": "wsj8cw614"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u5de6\u71df\u5340",
+                              "LocationTownCode": "64000030"
+               },
+               {
+                              "StationUID": "KRTC-R15",
+                              "StationID": "R15",
+                              "StationName": {
+                                             "Zh_tw": "\u751f\u614b\u5712\u5340",
+                                             "En": "Ecological District"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u5de6\u71df\u5340\u535a\u611b\u4e09\u8def435\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.306574,
+                                             "PositionLat": 22.676708,
+                                             "GeoHash": "wsj918ht6"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u5de6\u71df\u5340",
+                              "LocationTownCode": "64000030"
+               },
+               {
+                              "StationUID": "KRTC-R16",
+                              "StationID": "R16",
+                              "StationName": {
+                                             "Zh_tw": "\u5de6\u71df",
+                                             "En": "Zuoying"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u5de6\u71df\u5340\u9ad8\u9435\u8def107\u865f\u5730\u4e0b\u4e00\u5c64",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.309124,
+                                             "PositionLat": 22.687856,
+                                             "GeoHash": "wsj91dnqm"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u5de6\u71df\u5340",
+                              "LocationTownCode": "64000030"
+               },
+               {
+                              "StationUID": "KRTC-R17",
+                              "StationID": "R17",
+                              "StationName": {
+                                             "Zh_tw": "\u4e16\u904b",
+                                             "En": "World Game"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u6960\u6893\u5340\u5de6\u6960\u8def1\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.302472,
+                                             "PositionLat": 22.701878,
+                                             "GeoHash": "wsj91sc84"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u6960\u6893\u5340",
+                              "LocationTownCode": "64000040"
+               },
+               {
+                              "StationUID": "KRTC-R18",
+                              "StationID": "R18",
+                              "StationName": {
+                                             "Zh_tw": "\u6cb9\u5ee0\u570b\u5c0f",
+                                             "En": "Oil Refinery Elementary School"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u6960\u6893\u5340\u5de6\u6960\u8def6\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.302163,
+                                             "PositionLat": 22.708695,
+                                             "GeoHash": "wsj91tcre"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u6960\u6893\u5340",
+                              "LocationTownCode": "64000040"
+               },
+               {
+                              "StationUID": "KRTC-R19",
+                              "StationID": "R19",
+                              "StationName": {
+                                             "Zh_tw": "\u6960\u6893\u52a0\u5de5\u5340",
+                                             "En": "Nanzih Export Processing Zone"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u6960\u6893\u5340\u52a0\u660c\u8def598\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.30707,
+                                             "PositionLat": 22.718699,
+                                             "GeoHash": "wsj91xufj"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u6960\u6893\u5340",
+                              "LocationTownCode": "64000040"
+               },
+               {
+                              "StationUID": "KRTC-R20",
+                              "StationID": "R20",
+                              "StationName": {
+                                             "Zh_tw": "\u5f8c\u52c1",
+                                             "En": "Houjing"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u6960\u6893\u5340\u52a0\u660c\u8def178\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.316236,
+                                             "PositionLat": 22.722357,
+                                             "GeoHash": "wsj93b7x7"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u6960\u6893\u5340",
+                              "LocationTownCode": "64000040"
+               },
+               {
+                              "StationUID": "KRTC-R21",
+                              "StationID": "R21",
+                              "StationName": {
+                                             "Zh_tw": "\u90fd\u6703\u516c\u5712",
+                                             "En": "Metropolitan Park"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u6960\u6893\u5340\u9ad8\u6960\u516c\u8def1835\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.321002,
+                                             "PositionLat": 22.72934,
+                                             "GeoHash": "wsj93cz04"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u6960\u6893\u5340",
+                              "LocationTownCode": "64000040"
+               },
+               {
+                              "StationUID": "KRTC-R22",
+                              "StationID": "R22",
+                              "StationName": {
+                                             "Zh_tw": "\u9752\u57d4",
+                                             "En": "Cingpu"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u6a4b\u982d\u5340\u7d93\u6b66\u8def20\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.317617,
+                                             "PositionLat": 22.744393,
+                                             "GeoHash": "wsj93ukxe"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u6a4b\u982d\u5340",
+                              "LocationTownCode": "64000200"
+               },
+               {
+                              "StationUID": "KRTC-R22A",
+                              "StationID": "R22A",
+                              "StationName": {
+                                             "Zh_tw": "\u6a4b\u982d\u7cd6\u5ee0",
+                                             "En": "Ciaotou Sugar Refinery"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u6a4b\u982d\u5340\u8208\u7cd6\u8def19\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.314454,
+                                             "PositionLat": 22.753493,
+                                             "GeoHash": "wsj93y4k9"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u6a4b\u982d\u5340",
+                              "LocationTownCode": "64000200"
+               },
+               {
+                              "StationUID": "KRTC-R23",
+                              "StationID": "R23",
+                              "StationName": {
+                                             "Zh_tw": "\u6a4b\u982d\u706b\u8eca\u7ad9",
+                                             "En": "Ciaotou Station"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u6a4b\u982d\u5340\u7ad9\u524d\u885712\u4e4b1\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.310973,
+                                             "PositionLat": 22.760253,
+                                             "GeoHash": "wsj93xru0"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u6a4b\u982d\u5340",
+                              "LocationTownCode": "64000200"
+               },
+               {
+                              "StationUID": "KRTC-R24",
+                              "StationID": "R24",
+                              "StationName": {
+                                             "Zh_tw": "\u5357\u5ca1\u5c71",
+                                             "En": "Gangshan South"
+                              },
+                              "StationAddress": "\u9ad8\u96c4\u5e02\u5ca1\u5c71\u5340\u5927\u907c\u91cc9\u9130\u4e2d\u5c71\u5357\u8def2\u865f",
+                              "BikeAllowOnHoliday": true,
+                              "SrcUpdateTime": "2019-08-01T00:00:00+08:00",
+                              "UpdateTime": "2021-10-26T10:57:47+08:00",
+                              "VersionID": 3,
+                              "StationPosition": {
+                                             "PositionLon": 120.301732,
+                                             "PositionLat": 22.780623,
+                                             "GeoHash": "wsj99e149"
+                              },
+                              "LocationCity": "\u9ad8\u96c4\u5e02",
+                              "LocationCityCode": "KHH",
+                              "LocationTown": "\u5ca1\u5c71\u5340",
+                              "LocationTownCode": "64000190"
+               }
+]
